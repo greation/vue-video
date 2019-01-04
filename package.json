@@ -2,7 +2,7 @@
   "name": "vue-video",
   "version": "0.1.7",
   "description": "A HTML5 video player for Vue.js",
-  "author": "Awe <hilongjw@gmail.com>",
+  "author": "Awe <greation@126.com>",
   "main": "video.vue",
    "keywords": [
     "vue",
@@ -12,9 +12,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hilongjw/vue-video/issues"
+    "url": "https://github.com/greation/vue-video/issues"
   },
-  "homepage": "https://github.com/hilongjw/vue-video#readme",
+  "homepage": "https://github.com/greation/vue-video#readme",
   "scripts": {},
   "dependencies": {
   },
